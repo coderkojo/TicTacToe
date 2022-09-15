@@ -1,0 +1,37 @@
+{
+    "StudentName": "Kojo",
+    "SchoolName":"KTA High",
+    "YearCompleted":"2018",
+    "Subjects-Passed":
+    {
+        "Business Studies":
+        {
+            "Grade":"B"
+        },
+        "Geography":
+        {
+            "Grade":"C"
+        },
+        "Maths":
+        {
+            "Grade":"F"
+        },
+        "Science":
+        {
+            "Grade":"B"
+        },
+        "English":
+        {
+            "Grade":"B"
+        },
+        "Sesotho":
+        {
+            "Grade":"F"
+        },
+        "Develpment Studies":
+        {
+            "Grade":"C"
+        }
+    }
+
+}
